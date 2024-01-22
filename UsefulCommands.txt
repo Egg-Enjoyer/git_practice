@@ -1,1 +1,3 @@
+#If your are using the wrong account you can use this to change to the correct one.
 git config --global user.email EMAIL
+
