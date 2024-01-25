@@ -2,8 +2,10 @@ cd <localdir>
 git init
 git add .
 git commit -m 'message'
+git pull <url>
 git remote add origin <url>
 git push -u origin <branch>  or git checkout <branch>
+git remove -v 
 
 #If your are using the wrong account you can use this to change to the correct one.
 git config --global user.email EMAIL
